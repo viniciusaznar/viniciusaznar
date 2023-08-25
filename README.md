@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcos Vinicius Aznar da Silva (@viniciusaznar).
 - 🏳️‍🌈 (He/Him). 
-- 🇧🇷: I'm from São Paulo, Brazil.
+- 🇧🇷 I'm from São Paulo, Brazil.
 - 👀 I’m interested in Machine Learning, Python, JAVA and SQL.
 - 🌱 I’m currently learning JAVA and Python.
 - 📫 How to reach me: viniciusaznar@gmail.com
